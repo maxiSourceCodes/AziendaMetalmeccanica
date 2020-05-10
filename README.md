@@ -1,6 +1,4 @@
 # AziendaMetalmeccanica
-Progetto di un software di gestione di un'azienda metalmeccanica
-
 
 Massimiliano Carrubba
 Matr. 242526
