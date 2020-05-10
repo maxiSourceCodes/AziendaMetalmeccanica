@@ -1,0 +1,7 @@
+C:\Users\maxi\source\repos\AziendaMetalmeccanica\AziendaMetalmeccanica\obj\Debug\AziendaMetalmeccanica.csproj.CoreCompileInputs.cache
+C:\Users\maxi\source\repos\AziendaMetalmeccanica\AziendaMetalmeccanica\bin\Debug\AziendaMetalmeccanica.exe.config
+C:\Users\maxi\source\repos\AziendaMetalmeccanica\AziendaMetalmeccanica\bin\Debug\AziendaMetalmeccanica.exe
+C:\Users\maxi\source\repos\AziendaMetalmeccanica\AziendaMetalmeccanica\bin\Debug\AziendaMetalmeccanica.pdb
+C:\Users\maxi\source\repos\AziendaMetalmeccanica\AziendaMetalmeccanica\obj\Debug\AziendaMetalmeccanica.exe
+C:\Users\maxi\source\repos\AziendaMetalmeccanica\AziendaMetalmeccanica\obj\Debug\AziendaMetalmeccanica.pdb
+C:\Users\maxi\source\repos\AziendaMetalmeccanica\AziendaMetalmeccanica\obj\Debug\AziendaMetalmeccanica.csprojAssemblyReference.cache
